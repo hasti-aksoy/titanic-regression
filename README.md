@@ -45,6 +45,8 @@ Open notebooks in the following order:
 
 02_eda.ipynb
 
+03_modeling.ipyng
+
 Eda_Report.ipynb
 
 Final_Report.ipynb
