@@ -1,0 +1,19 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.ipynb_checkpoints/
+
+# data
+data/raw/*
+!data/raw/README.md
+data/processed/*
+
+# models
+models/*
+
+# OS
+.DS_Store
+Thumbs.db

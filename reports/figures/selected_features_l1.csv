@@ -1,0 +1,16 @@
+SelectedFeatures
+Pclass
+Age
+SibSp
+Fare
+FamilySize
+IsAlone
+Sex_female
+Sex_male
+Embarked_Q
+Embarked_S
+Title_Master
+Title_Mr
+Title_Mrs
+FareBin_Q1
+FareBin_Q3
