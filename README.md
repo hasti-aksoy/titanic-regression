@@ -9,12 +9,13 @@
 This project applies Linear and Logistic Regression with Regularization (Ridge, Lasso, Elastic Net) and Stepwise Feature Selection to the Titanic dataset.
 After thorough data cleaning, feature engineering, and model evaluation, the best performance was achieved with Elastic Net Logistic Regression (ROC-AUC = 0.872).
 
-📂 Project Structure
-├── data/          # Raw and processed datasets
-├── notebooks/     # Jupyter notebooks for analysis
-├── reports/       # Final report (PDF) and visualizations
-├── models/        # Saved ML pipelines
-└── README.md      # Project documentation
+├── data/ # Raw and processed datasets
+├── notebooks/ # Jupyter notebooks for analysis
+├── reports/ # Final report (PDF) and visualizations
+├── models/ # Saved ML pipelines
+├── src/ # Source code (data cleaning, prediction scripts)
+├── requirements.txt
+└── README.md # Project documentation
 
 📊 Dataset
 
