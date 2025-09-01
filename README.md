@@ -41,13 +41,13 @@ pip install -r requirements.txt
 
 Open notebooks in the following order:
 
-01_data_cleaning.ipynb
+01_cleaning.ipynb
 
-02_feature_engineering.ipynb
+02_eda.ipynb
 
-03_modeling.ipynb
+Eda_Report.ipynb
 
-04_evaluation.ipynb
+Final_Report.ipynb
 
 Run the scripts to reproduce results.
 
